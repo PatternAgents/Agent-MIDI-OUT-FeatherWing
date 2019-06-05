@@ -1,7 +1,7 @@
 # Agent-MIDI-OUT-FeatherWing
 
 The PatternAgents MIDI-OUT FeatherWing allows you to connect [Adafruit Feather CPUs](https://www.adafruit.com/feather)
-to Musical Instruments and Controllers using the Musical Instrument Digital Interface (MIDI). 
+to Musical Instruments and Synthesizers using the Musical Instrument Digital Interface (MIDI). 
 
 The PatternAgents "Featherwing & Grovey Series" boards were designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
 "Featherwing & Grovey Series" boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout. 
@@ -15,7 +15,7 @@ The PatternAgents "Featherwing & Grovey Series" boards were designed as "Everyda
 ---------------------------------------
 ## Example Applications
 
-* [USB to MIDI](https://github.com/patternagents/Agent-MIDI-OUT-FeatherWing/) 
+* [USB to MIDI](https://github.com/patternagents/Agent-MIDI-OUT-FeatherWing/) with any USB based Feather CPU
 
 ---------------------------------------
 
