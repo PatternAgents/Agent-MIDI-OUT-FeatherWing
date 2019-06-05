@@ -12,10 +12,10 @@ The PatternAgents "Featherwing & Grovey Series" boards were designed as "Everyda
 * [FeatherWing Compatible Module](https://learn.adafruit.com/adafruit-feather/feather-specification)
 * [3.3V Operation](https://learn.adafruit.com/adafruit-feather/feather-specification)
 * Solder Configurable Output Pin
-** TXD
-** MOSI
-** GPO13
-** GPO5
+  TXD
+  MOSI
+  GPO13
+  GPO5
 
 ---------------------------------------
 ## Example Applications
