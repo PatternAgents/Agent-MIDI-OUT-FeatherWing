@@ -4,7 +4,7 @@ The PatternAgents MIDI-OUT FeatherWing allows you to connect [Adafruit Feather C
 to Musical Instruments and Synthesizers using the Musical Instrument Digital Interface (MIDI). 
 
 The PatternAgents "Featherwing & Grovey Series" boards were designed as "Everyday Electronics", a no-frills, low cost, approach to modular embedded product design.
-"Featherwing & Grovey Series" boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout. 
+"Featherwing & Grovey Series" boards are similar in size to most break-out-boards (BOBs), but feature a standardized stacking pinout, to facilitate rapid prototyping.
 
 ---------------------------------------
 
