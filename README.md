@@ -18,6 +18,9 @@ to Musical Instruments and Synthesizers using the Musical Instrument Digital Int
 
 [![Agent-MIDI-OUT-FeatherWing Top](https://github.com/patternagents/Agent-MIDI-OUT-FeatherWing/blob/master/Agent-MIDI-OUT-FeatherWing/images/Agent-MIDI-OUT-FeatherWing_BLK_top.png?raw=true)Agent-MIDI-OUT-FeatherWing Top](https://github.com/patternagents/Agent-MIDI-OUT-FeatherWing/)
 
+[![Agent-MIDI-OUT-FeatherWing Top](https://github.com/patternagents/Agent-MIDI-OUT-FeatherWing/blob/master/Agent-MIDI-OUT-FeatherWing/images/Agent-MIDI-OUT-FeatherWing_midnight_top.png?raw=true)Agent-MIDI-OUT-FeatherWing Top](https://github.com/patternagents/Agent-MIDI-OUT-FeatherWing/)
+
+
 ---------------------------------------
 ## Example Applications
 
